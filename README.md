@@ -10,7 +10,7 @@ Tested on LSPosed 1.9.2, 1.9.2-ir, 2.0.4, 2.1.1
 
 For Magisk user, root authorization is required;
 
-For Apatch/KSU user, root authorization is required.
+For Apatch/KSU user, root privileges need to be granted manually.
 
 Than just open it.
 
@@ -32,7 +32,7 @@ I'm simply packaging action.sh into an application.
 
 **使用方法**
 
-Magisk 用户允许 root 权限；
+Magisk 用户需允许 root 权限；
 
 Apatch/KSU 用户需要手动给与 root 权限。
 

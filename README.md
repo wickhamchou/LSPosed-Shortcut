@@ -8,7 +8,7 @@ Tested on 1.9.2, 1.9.2-ir, 2.0.4, 2.1.1
 
 Support most versions
 
-For magisk user, root authorization is required;
+For Magisk user, root authorization is required;
 
 For Apatch/KSU user, root authorization is required.
 

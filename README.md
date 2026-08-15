@@ -34,7 +34,7 @@ I'm simply packaging action.sh into an application.
 
 Magisk 用户需允许 root 权限；
 
-Apatch/KSU 用户需要手动给与 root 权限。
+Apatch/KSU 用户需要手动给予 root 权限。
 
 然后直接打开应用即可。
 
